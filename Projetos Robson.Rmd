@@ -1,5 +1,5 @@
 ---
-title: "Exercicios para entregar"
+title: "Estudos sobre regressão linear, teste de hipoteses e Forecasting"
 author: "Robson Jacinto de Souza"
 date: "20/12/2019"
 output: html_document
